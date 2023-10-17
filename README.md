@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Contributor18
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Contributor18/Contributor18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Java, JavaScript and SQL
+- 🌱 I’m currently working on projects
+- 💞️ I’m looking to collaborate on projects related to any programming languages
+- 📫 How to reach me: agrawalneeta107@gmail.com
